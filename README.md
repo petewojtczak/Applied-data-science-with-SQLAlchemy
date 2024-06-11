@@ -1,8 +1,5 @@
 # Applied-Data-Science
 
-## Dataset<br>
-Transacional data<br><br>
-
 ## Task 1: Forecasting<br>
 The main goal of this block is to implement a demand forecasting system for a short-term period (14 days) 7 days from the last date in the data for all product groups. We rely on the transaction data provided to you. It is important to make sure the system can produce a forecast for new products (which have little or no training data). We would like to see 2 approaches for comparison: using machine learning and classical time series forecasting.
 The technical solution must be justified by comments regarding the appropriateness of a particular method or approach.<br><br>
