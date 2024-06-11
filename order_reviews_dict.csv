@@ -1,0 +1,7 @@
+review_id;unique review identifier
+order_id;unique order identifier
+review_score;Note ranging from 1 to 5 given by the customer on a satisfaction survey.
+review_comment_title;Comment title from the review left by the customer, in Portuguese.
+review_comment_message;Comment message from the review left by the customer, in Portuguese.
+review_creation_date;Shows the date in which the satisfaction survey was sent to the customer.
+review_answer_timestamp;Shows satisfaction survey answer timestamp.

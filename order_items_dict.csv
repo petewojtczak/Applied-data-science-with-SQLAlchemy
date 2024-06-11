@@ -1,0 +1,7 @@
+order_id;order unique identifier
+order_item_id;sequential number identifying number of items included in the same order.
+product_id;product unique identifier
+seller_id;seller unique identifier
+shipping_limit_date;Shows the seller shipping limit date for handling the order over to the logistic partner.
+price;item price
+freight_value;item freight value item (if an order has more than one item the freight value is splitted between items)

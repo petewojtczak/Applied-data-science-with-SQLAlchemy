@@ -1,0 +1,5 @@
+order_id;unique identifier of an order.
+payment_sequential;a customer may pay an order with more than one payment method. If he does so, a sequence will be created to
+payment_type;method of payment chosen by the customer.
+payment_installments;number of installments chosen by the customer.
+payment_value;transaction value.

@@ -1,0 +1,9 @@
+product_id;unique product identifier
+product_category_name;root category of product, in Portuguese.
+product_name_lenght;number of characters extracted from the product name.
+product_description_lenght;number of characters extracted from the product description.
+product_photos_qty;number of product published photos
+product_weight_g;product weight measured in grams.
+product_length_cm;product length measured in centimeters.
+product_height_cm;product height measured in centimeters.
+product_width_cm;product width measured in centimeters.
