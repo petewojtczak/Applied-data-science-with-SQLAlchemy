@@ -1,7 +1,7 @@
 # Applied-Data-Science with SQLAlchemy
 
 ## Task 1: Forecasting<br>
-The objective of this section is to utilize the transaction_data database in order to develop a system for forecasting demand over a short-term period (21 days), for all product categories.<br><br>
+The objective of this section is to utilize the transaction_data database to perform demand forecasting for every product category.<br><br>
 
 ## Task 2: Analysis of sellers and products<br>
 In this section, an analytical report is desired on the sellers and products listed on our marketplace. Using the provided data on sellers and products, the report should include details such as the best and worst sellers by state, as well as the best and worst products by category. Additionally, turnover analytics should be investigated to uncover valuable insights.<br><br>
