@@ -39,7 +39,7 @@ In this section, turnover analytics should be investigated to uncover valuable i
 
 ## Task 3: Analysis of Sentiment<br>
 This section implements functionality to classify comments as positive, neutral or negative using RoBERTa model. Fameous transformer architecture.<br><br>
-Key findings include the most endorsed products and sellers.<br>
+Key findings include `most endorsed products and sellers`.<br>
 
 `Database Updates:` <br>
 * Added `sentiment` column into an `order_reviews` table,
