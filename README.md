@@ -11,6 +11,8 @@ Notes:
 In this section, turnover analytics should be investigated to uncover valuable insights. Additionally, a detailed analytical report is desired on the sellers and products listed on our marketplace.<br>
 
 `Turnover Analytics:` <br>
+* Aggregated turnover,
+* Turnover in categories,
 * Growing Categories,
 * Most valuable categories,
 * Declining Categories,
