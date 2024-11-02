@@ -38,7 +38,7 @@ In this section, turnover analytics should be investigated to uncover valuable i
 * Top Products by Customer Satisfaction Score.
 
 ## Task 3: Analysis of Sentiment<br>
-This section implements functionality to classify comments as positive, neutral or negative using RoBERTa model trained on Portuguese tweets.Fameous transformer architecture.<br>
+This section implements functionality to classify comments as positive, neutral or negative using RoBERTa model trained on Portuguese tweets. Fameous transformer architecture.<br><br>
 Key findings include the most endorsed products and sellers.<br><br>
 
 ### About Dataset 
