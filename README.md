@@ -39,7 +39,11 @@ In this section, turnover analytics should be investigated to uncover valuable i
 
 ## Task 3: Analysis of Sentiment<br>
 This section implements functionality to classify comments as positive, neutral or negative using RoBERTa model. Fameous transformer architecture.<br><br>
-Key findings include the most endorsed products and sellers.<br><br>
+Key findings include the most endorsed products and sellers.<br>
+
+`Database Updates:` <br>
+* Added `sentiment` column into an `order_reviews` table,
+*  Added `text_rating` column into an `order_reviews` table.
 
 ### About Dataset 
 The file `transactional_data.db` is an SQLite database that contains five tables relevant to marketplace transactions. Each table captures specific aspects of the transaction process and is designed to support various types of analyses. Here’s an overview of the tables included:
