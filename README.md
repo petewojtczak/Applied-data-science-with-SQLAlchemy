@@ -8,7 +8,32 @@ Notes:
 * Weekly seasonality is reportedly alleged (according to `Data Card` description).
 
 ## Task 2: Analysis of sellers and products<br>
-In this section, a detailed analytical report is desired on the sellers and products listed on our marketplace. Additionally, turnover analytics should be investigated to uncover valuable insights.<br><br>
+In this section, turnover analytics should be investigated to uncover valuable insights. Additionally, a detailed analytical report is desired on the sellers and products listed on our marketplace.<br><br>
+
+`Turnover Analytics:` <br>
+* Growing Categories,
+* Most valuable categories,
+* Declining Categories,
+* Least valuable categories.<br>
+
+`Sellers Analytics:` <br>
+* Top 10 sellers by Revenue,
+* Average Order Value by Seller,
+* Average daily revenue for each seller,
+* Best seller within each category,
+* Sellers with the Highest Number of Reviews,
+* Top Sellers by Customer Satisfaction Score.<br>
+
+`Products Analytics:` <br>
+* Top 10 Products by Revenue,
+* Top 10 Products by Total Units Sold,
+* Average daily revenue for each product,
+* Best product within each category,
+* Average Product Weight by Category,
+* Average Product Price by Category,
+* Average Review Score by Product Category,
+* Products with the Highest Number of Reviews,
+* Top Products by Customer Satisfaction Score.
 
 ## Task 3: Analysis of product semantics<br>
 Our database includes numerical product ratings accompanied by text reviews. Let's implement functionality to classify comments as positive or negative and compile the analytics. I am interested in the correlation between text comments and numerical ratings (1-5), identifying products with the best and worst reviews, and highlighting sellers who receive only negative feedback.<br><br>
