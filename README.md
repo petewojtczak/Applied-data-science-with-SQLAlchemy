@@ -1,7 +1,7 @@
 # Applied-Data-Science with SQLAlchemy
 
 ## Task 1: Data Analytics<br>
-In this section, turnover analytics should be investigated to uncover valuable insights (include short-term aggregated turnover forecast). Additionally, a detailed analytical report is desired on the sellers and products listed on our marketplace.<br>
+In this section, turnover analytics should be investigated to uncover valuable insights (short-term aggregated turnover forecast included). Additionally, a detailed analytical report is desired on the sellers and products listed on our marketplace.<br>
 
 `Turnover Analytics:` <br>
 * Aggregated turnover,
