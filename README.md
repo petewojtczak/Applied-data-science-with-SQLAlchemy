@@ -1,14 +1,7 @@
 # Applied-Data-Science with SQLAlchemy
 
-## Task 1: Forecasting<br>
-The goal is to perform demand forecasting for each product category.<br><br>
-Notes:
-* Demand is assumed to be synonymous with the value of things,
-* Expected forecasting horizon is around 14 days,
-* Weekly seasonality is reportedly alleged (according to `Data Card` description).
-
-## Task 2: Data Analytics<br>
-In this section, turnover analytics should be investigated to uncover valuable insights. Additionally, a detailed analytical report is desired on the sellers and products listed on our marketplace.<br>
+## Task 1: Data Analytics<br>
+In this section, turnover analytics should be investigated to uncover valuable insights (include short-term aggregated turnover forecast as well). Additionally, a detailed analytical report is desired on the sellers and products listed on our marketplace.<br>
 
 `Turnover Analytics:` <br>
 * Aggregated turnover,
@@ -36,6 +29,13 @@ In this section, turnover analytics should be investigated to uncover valuable i
 * Average Review Score by Product Category,
 * Products with the Highest Number of Reviews,
 * Top Products by Customer Satisfaction Score.
+
+## Task 2: Forecasting<br>
+The goal is to perform demand forecasting for each product category.<br><br>
+Notes:
+* Demand is assumed to be synonymous with the value of things,
+* Expected forecasting horizon is around 14 days,
+* Weekly seasonality is reportedly alleged (according to `Data Card` description).
 
 ## Task 3: Analysis of Sentiment<br>
 This section implements functionality to classify comments as positive, neutral or negative using RoBERTa model. Fameous transformer architecture.<br><br>
