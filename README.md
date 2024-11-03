@@ -3,7 +3,7 @@
 ## Task 1: Data Analytics<br>
 In this section, turnover analytics should be investigated to uncover valuable insights. Additionally, a detailed analytical report is desired on the sellers and products listed on our marketplace.<br>
 
-* `Turnover Analytics` should include short-term forecasts for marketplace revenue. <br><br>
+* `Turnover Analytics` should include forecast for marketplace revenue. <br><br>
 
 
 ## Task 2: Forecasting<br>
