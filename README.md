@@ -4,9 +4,9 @@
 In this section, turnover analytics should be investigated to uncover valuable insights. Additionally, a detailed analytical report is desired on the sellers and products listed on our marketplace.<br>
 
 `Turnover Analytics` include: <br>
-* Revenue short-term forecasting
+* Short-term revenue forecasting,
 * Growing Categories,
-* Declining Categories,
+* Declining Categories.
 
 `Sellers Analytics` include: <br>
 * Best seller within each category,
@@ -15,7 +15,7 @@ In this section, turnover analytics should be investigated to uncover valuable i
 `Products Analytics` include:<br>
 * Top 10 Products by Revenue,
 * Average Review Score by Product Category,
-* Products with the Highest Number of Reviews,
+* Products with the Highest Number of Reviews.
 
 ## Task 2: Forecasting<br>
 The goal is to perform demand forecasting for each product category.<br><br>
