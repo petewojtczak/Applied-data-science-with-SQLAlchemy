@@ -3,32 +3,19 @@
 ## Task 1: Data Analytics<br>
 In this section, turnover analytics should be investigated to uncover valuable insights (short-term aggregated turnover forecast included). Additionally, a detailed analytical report is desired on the sellers and products listed on our marketplace.<br>
 
-`Turnover Analytics:` <br>
-* Aggregated turnover,
-* Turnover in categories,
+`Turnover Analytics` include: <br>
+* Total revenue short-term forecasting
 * Growing Categories,
-* Most valuable categories,
 * Declining Categories,
-* Least valuable categories.<br>
 
-`Sellers Analytics:` <br>
-* Top 10 sellers by Revenue,
-* Average Order Value by Seller,
-* Average daily revenue for each seller,
+`Sellers Analytics` include: <br>
 * Best seller within each category,
-* Sellers with the Highest Number of Reviews,
 * Top Sellers by Customer Satisfaction Score.<br>
 
-`Products Analytics:` <br>
+`Products Analytics` include:<br>
 * Top 10 Products by Revenue,
-* Top 10 Products by Total Units Sold,
-* Average daily revenue for each product,
-* Best product within each category,
-* Average Product Weight by Category,
-* Average Product Price by Category,
 * Average Review Score by Product Category,
 * Products with the Highest Number of Reviews,
-* Top Products by Customer Satisfaction Score.
 
 ## Task 2: Forecasting<br>
 The goal is to perform demand forecasting for each product category.<br><br>
